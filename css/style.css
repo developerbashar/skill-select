@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Keania+One&display=swap');
+html,body{
+    background-color: chocolate;
+    height: 100%;
+}
+.title{
+    text-align: center;
+}
+.skill-item-inner{
+    background: #ceef4b;
+    width: 40%;
+    position: absolute;
+    top: 50%;
+    line-height: 24px;
+    left: 50%;
+    font-family: "Keania One", cursive;
+    padding: 20px;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    box-shadow: 0 10px 5px -6px rgba(0,0,0, 0.5);
+}
